@@ -1,0 +1,2 @@
+def printCommon():
+    print("FizzBuzz")
