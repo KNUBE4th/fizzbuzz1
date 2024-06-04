@@ -1,3 +1,6 @@
+def printCommon():
+  print("FizzBuzz")
+
 def printFifth():
   print("Buzz")
 
@@ -10,3 +13,4 @@ for i in range(1, 101):
     printFifth()
   else:
     print(i)
+
